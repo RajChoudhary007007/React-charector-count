@@ -1,0 +1,11 @@
+.word-item-container {
+  list-style-type: none;
+  display: flex;
+  width: 80%;
+}
+.description {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: roboto;
+  color: #334155;
+}
